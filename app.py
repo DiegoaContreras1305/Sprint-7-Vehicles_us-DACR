@@ -27,3 +27,5 @@ if st.button("Mostrar gráfico de dispersión: Precio vs Kilometraje"):
         labels={"odometer": "Kilometraje", "price": "Precio"}
     )
     st.plotly_chart(fig_scatter)
+
+
