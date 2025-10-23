@@ -8,3 +8,5 @@ Funcionalidades principales
 - Gráfico de dispersión: otro botón permite visualizar la relación entre el kilometraje y el precio, coloreado por la condición del vehículo.
 - Interfaz interactiva: todos los gráficos se generan dinámicamente usando plotly-express y se integran en la app con st.plotly_chart().
 
+
+Link App:  https://sprint-7-vehicles-us-dacr.onrender.com
